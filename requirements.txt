@@ -1,0 +1,8 @@
+Werkzeug
+Jinja2
+MarkupSafe
+ItsDangerous
+Click
+Blinker
+Flask
+
